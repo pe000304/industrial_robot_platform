@@ -11,5 +11,5 @@
    sudo update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8
    export LANG=en_US.UTF-8
 
-3. Install ROS2 Humble
+3. Install ROS2 Humble  
 https://docs.ros.org/en/humble/Installation.html
