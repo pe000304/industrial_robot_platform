@@ -1,5 +1,5 @@
 # industrial_robot_platform
-1. Operation system /n- Ubuntu 22.04 Desktop https://releases.ubuntu.com/22.04/
+1. Operation system \n - Ubuntu 22.04 Desktop https://releases.ubuntu.com/22.04/
 2. USE UTF-8:
       `sudo apt update && sudo apt install locales/n  
       sudo locale-gen en_US en_US.UTF-8  
